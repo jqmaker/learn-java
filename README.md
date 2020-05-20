@@ -1,2 +1,2 @@
 # learn-java
-used to save my code and projects
+Used to save my code and projects
